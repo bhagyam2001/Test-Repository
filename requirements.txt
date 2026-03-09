@@ -1,0 +1,6 @@
+azure-functions
+pdfplumber
+python-docx
+pillow
+easyocr
+requests
